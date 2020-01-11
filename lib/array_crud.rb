@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   array = ["nike", "adidas", "asic"]
-  nike = array.unshift
+  nike = array.shift
   p array
   p nike
 end
