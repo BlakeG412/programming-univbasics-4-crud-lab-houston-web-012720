@@ -9,7 +9,6 @@ end
 def add_element_to_end_of_array(array, element)
   array = ["nike", "adidas", "asic"]
   array.push("arrays!")
-  p array
 end
 
 def add_element_to_start_of_array(array, element)
